@@ -1,5 +1,6 @@
 alacritty 0.4.1-2
 amd-ucode 20200224.efcfa03-1
+amdvlk 2020.Q1.3-1
 base 2-2
 binutils 2.34-2
 dash 0.5.10.2-2
@@ -12,6 +13,8 @@ gcc 9.3.0-1
 git 2.25.2-1
 go 2:1.14.1-1
 libaio 0.3.112-2
+libnotify 0.7.9-1
+libva-vdpau-driver 0.7.4-4
 linux-bcachefs-git v5.3.18.arch1.r860253.a5e8d069bc4d-1
 linux-firmware 20200224.efcfa03-1
 make 4.3-1
@@ -19,6 +22,7 @@ man-db 2.9.1-1
 man-pages 5.05-2
 netctl 1.20-2
 openresolv 3.10.0-1
+pulseaudio 13.0-3
 sudo 1.8.31.p1-1
 sway 1:1.4-8
 vim 8.2.0343-1
