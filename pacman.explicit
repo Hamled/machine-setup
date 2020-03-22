@@ -4,6 +4,7 @@ base 2-2
 binutils 2.34-2
 dash 0.5.10.2-2
 dhcpcd 8.1.6-1
+dmenu 4.9-1
 efibootmgr 16-2
 fakeroot 1.24-2
 gcc 9.3.0-1
