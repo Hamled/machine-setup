@@ -17,6 +17,7 @@ man-pages 5.05-2
 netctl 1.20-2
 openresolv 3.10.0-1
 sudo 1.8.31.p1-1
+sway 1:1.4-8
 vim 8.2.0343-1
 which 2.21-5
 yay 9.4.6-2
