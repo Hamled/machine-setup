@@ -7,6 +7,7 @@ dhcpcd 8.1.6-1
 dmenu 4.9-1
 efibootmgr 16-2
 fakeroot 1.24-2
+firefox 74.0-2
 gcc 9.3.0-1
 git 2.25.2-1
 go 2:1.14.1-1
