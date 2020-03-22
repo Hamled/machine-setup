@@ -427,6 +427,7 @@ vim-runtime 8.2.0343-1
 virglrenderer 0.8.2-1
 virt-install 2.2.1-2
 virt-manager 2.2.1-2
+virtio-win 0.1.173.8-1
 vte-common 0.60.0-1
 vte3 0.60.0-1
 vulkan-icd-loader 1.2.135-1

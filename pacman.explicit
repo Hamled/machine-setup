@@ -39,6 +39,7 @@ sudo 1.8.31.p1-1
 sway 1:1.4-8
 vim 8.2.0343-1
 virt-manager 2.2.1-2
+virtio-win 0.1.173.8-1
 which 2.21-5
 wofi 1.1.2-1
 xorg-server-xwayland 1.20.7-1
