@@ -307,6 +307,7 @@ pinentry 1.1.0-5
 pixman 0.38.4-1
 pkgconf 1.6.3-3
 polkit 0.116-5
+polkit-gnome 0.105-4
 popt 1.16-12
 procps-ng 3.3.16-1
 psmisc 23.3-2

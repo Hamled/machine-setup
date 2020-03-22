@@ -27,6 +27,7 @@ netctl 1.20-2
 openresolv 3.10.0-1
 ovmf 1:202002-1
 pavucontrol 1:4.0-1
+polkit-gnome 0.105-4
 pulseaudio 13.0-3
 qemu 4.2.0-2
 sudo 1.8.31.p1-1
