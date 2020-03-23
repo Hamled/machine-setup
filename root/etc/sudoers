@@ -69,6 +69,12 @@
 # Defaults!/usr/local/bin/sudoreplay !log_output
 # Defaults!REBOOT !log_output
 
+# Disable prompt timeout
+Defaults passwd_timeout=0
+
+# Ping about sudo prompt
+Defaults passprompt="^G[sudo] password for %p: "
+
 ##
 ## Runas alias specification
 ##
