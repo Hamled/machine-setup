@@ -17,6 +17,8 @@ atkmm 2.28.0-1
 attr 2.4.48-2
 audit 2.8.5-6
 augeas 1.12.0-1
+autoconf 2.69-7
+automake 1.16.1-2
 avahi 0.8+15+ge8a3dd0-1
 base 2-2
 bash 5.0.016-1
@@ -92,6 +94,7 @@ glib2 2.64.1-1
 glibc 2.31-2
 glibmm 2.64.1-1
 glslang 8.13.3559-1
+glu 9.0.1-1
 glusterfs 1:7.3-1
 gmp 6.2.0-1
 gnupg 2.2.19-1
@@ -339,6 +342,7 @@ pambase 20190105.1-2
 pango 1:1.44.7+11+g73b46b04-1
 pangomm 2.42.0-1
 parted 3.3-1
+patch 2.7.6-8
 pavucontrol 1:4.0-1
 pciutils 3.6.4-1
 pcre 8.44-1
@@ -385,6 +389,7 @@ rpcbind 1.2.5-3
 rtkit 0.12-1
 rubberband 1.8.2-3
 sdl2 2.0.12-1
+sdl2_ttf 2.0.15-1
 seabios 1.13.0-1
 sed 4.8-1
 shaderc 2019.0-4
@@ -398,6 +403,7 @@ speex 1.2.0-2
 speexdsp 1.2.0-1
 spice 0.14.2-1
 spice-gtk 0.37-1
+spice-protocol 0.14.1-1
 spirv-tools 2019.5-2
 spotify 1:1.1.10.546-3
 sqlite 3.31.1-1

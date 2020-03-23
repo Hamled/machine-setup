@@ -1,6 +1,8 @@
 alacritty 0.4.1-2
 amd-ucode 20200224.efcfa03-1
 amdvlk 2020.Q1.3-1
+autoconf 2.69-7
+automake 1.16.1-2
 base 2-2
 binutils 2.34-2
 bison 3.5.3-1
@@ -32,6 +34,7 @@ mpv 1:0.32.0-2
 netctl 1.20-2
 openresolv 3.10.0-1
 ovmf 1:202002-1
+patch 2.7.6-8
 pavucontrol 1:4.0-1
 polkit-gnome 0.105-4
 pulseaudio 13.0-3
