@@ -7,6 +7,7 @@ bison 3.5.3-1
 dash 0.5.10.2-2
 dhcpcd 8.1.6-1
 dmenu 4.9-1
+dmidecode 3.2-1
 dnsmasq 2.80-4
 ebtables 2.0.10_4-7
 efibootmgr 16-2

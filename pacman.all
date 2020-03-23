@@ -55,6 +55,7 @@ device-mapper 2.02.186-5
 dhcpcd 8.1.6-1
 diffutils 3.7-3
 dmenu 4.9-1
+dmidecode 3.2-1
 dnsmasq 2.80-4
 dnssec-anchors 20190629-2
 e2fsprogs 1.45.5-1
