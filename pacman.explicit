@@ -46,6 +46,7 @@ scream-pulse 3.4-2
 spotify 1:1.1.10.546-3
 sudo 1.8.31.p1-1
 sway 1:1.4-8
+usbutils 012-2
 vim 8.2.0343-1
 virt-manager 2.2.1-2
 virtio-win 0.1.173.8-1
