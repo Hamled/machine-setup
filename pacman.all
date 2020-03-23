@@ -22,6 +22,7 @@ automake 1.16.1-2
 avahi 0.8+15+ge8a3dd0-1
 base 2-2
 bash 5.0.016-1
+bash-completion 2.10-1
 bcachefs-tools-git 563-1
 binutils 2.34-2
 bison 3.5.3-1
@@ -304,6 +305,7 @@ make 4.3-1
 mako 1.4.1-1
 man-db 2.9.1-1
 man-pages 5.05-2
+megacmd-bin 1.1.0-4
 mesa 19.3.4-2
 meson 0.53.2-1
 mkinitcpio 27-3
