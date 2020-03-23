@@ -10,6 +10,7 @@ amdvlk 2020.Q1.3-1
 aom 1.0.0.errata1+avif-1
 archlinux-keyring 20200108-1
 argon2 20190702-2
+asciidoc 8.6.10-1
 at-spi2-atk 2.34.2-1
 at-spi2-core 2.36.0-1
 atk 2.34.1-1
@@ -61,6 +62,8 @@ dmenu 4.9-1
 dmidecode 3.2-1
 dnsmasq 2.80-4
 dnssec-anchors 20190629-2
+docbook-xml 4.5-8
+docbook-xsl 1.79.2-5
 e2fsprogs 1.45.5-1
 ebtables 2.0.10_4-7
 efibootmgr 16-2
@@ -306,6 +309,7 @@ mako 1.4.1-1
 man-db 2.9.1-1
 man-pages 5.05-2
 megacmd-bin 1.1.0-4
+megatools 1.10.2-1
 mesa 19.3.4-2
 meson 0.53.2-1
 mkinitcpio 27-3
