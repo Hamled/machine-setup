@@ -26,6 +26,7 @@ libva-vdpau-driver 0.7.4-4
 libvirt 5.10.0-2
 linux-bcachefs-git v5.3.18.arch1.r860253.a5e8d069bc4d-1
 linux-firmware 20200224.efcfa03-1
+looking-glass 2:B1-2
 make 4.3-1
 mako 1.4.1-1
 man-db 2.9.1-1
