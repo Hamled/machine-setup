@@ -455,6 +455,7 @@ startup-notification 0.12-6
 sudo 1.8.31.p1-1
 sway 1:1.4-8
 swaybg 1.0-3
+swaylock 1.5-1
 sysfsutils 2.1.0-11
 systemd 245.2-2
 systemd-libs 245.2-2
