@@ -18,7 +18,7 @@ fakeroot 1.24-2
 firefox 74.0-2
 flex 2.6.4-3
 gcc 9.3.0-1
-git 2.25.2-1
+git 2.26.0-1
 go 2:1.14.1-1
 latencytop 0.5-4
 libaio 0.3.112-2
@@ -46,7 +46,7 @@ pulseaudio 13.0-3
 qemu 4.2.0-2
 ranger 1.9.3-1
 scream-pulse 3.4-2
-spotify 1:1.1.10.546-3
+spotify 1:1.1.10.546-4
 sudo 1.8.31.p1-1
 sway 1:1.4-8
 swaylock 1.5-1
