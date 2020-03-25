@@ -464,6 +464,7 @@ sway 1:1.4-8
 swaybg 1.0-3
 swaylock 1.5-1
 sysfsutils 2.1.0-11
+sysstat 12.3.1-1
 systemd 245.2-2
 systemd-libs 245.2-2
 systemd-sysvcompat 245.2-2

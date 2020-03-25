@@ -52,6 +52,7 @@ spotify 1:1.1.10.546-4
 sudo 1.8.31.p1-1
 sway 1:1.4-8
 swaylock 1.5-1
+sysstat 12.3.1-1
 ttf-droid 20121017-7
 ttf-roboto-fontconfig 2.000980-1
 ttf-roboto-mono 2.002-3
