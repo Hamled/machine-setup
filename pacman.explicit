@@ -19,6 +19,7 @@ flex 2.6.4-3
 gcc 9.3.0-1
 git 2.25.2-1
 go 2:1.14.1-1
+latencytop 0.5-4
 libaio 0.3.112-2
 libguestfs 1.40.2-1
 libnotify 0.7.9-1
