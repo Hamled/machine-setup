@@ -333,6 +333,7 @@ mesa 19.3.4-2
 meson 0.53.2-1
 mkinitcpio 27-3
 mkinitcpio-busybox 1.31.1-1
+modprobed-db 2.41-1
 mpfr 4.0.2-2
 mpv 1:0.32.0-2
 mtdev 1.1.6-1
