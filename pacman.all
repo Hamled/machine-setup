@@ -448,6 +448,7 @@ sed 4.8-1
 shaderc 2019.0-4
 shadow 4.8.1-1
 shared-mime-info 1.15-2
+smartmontools 7.1-1
 smbclient 4.10.10-2
 snappy 1.1.8-1
 sndio 1.6.0-1
