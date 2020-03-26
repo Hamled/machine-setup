@@ -461,6 +461,7 @@ spirv-tools 2019.5-2
 spotify 1:1.1.10.546-4
 sqlite 3.31.1-1
 startup-notification 0.12-6
+strace 5.5-1
 sudo 1.8.31.p1-1
 sway 1:1.4-8
 swaybg 1.0-3
