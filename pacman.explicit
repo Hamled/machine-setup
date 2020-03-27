@@ -9,6 +9,7 @@ automake 1.16.1-2
 base 2-2
 binutils 2.34-2
 bison 3.5.3-1
+bitwarden-bin 1.17.2-1
 dash 0.5.10.2-2
 dhcpcd 8.1.6-1
 dmenu 4.9-1
