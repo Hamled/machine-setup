@@ -1,6 +1,6 @@
 alacritty 0.4.1-2
 amd-ucode 20200224.efcfa03-1
-amdvlk 2020.Q1.3-1
+amdvlk 2020.Q1.4-1
 apcupsd 3.14.14-4
 asciinema 2.0.2-3
 asp 5-1
@@ -73,4 +73,4 @@ wireguard-tools 1.0.20200319-1
 wofi 1.1.2-1
 xorg-server-xwayland 1.20.7-1
 yay 9.4.6-2
-youtube-dl 2020.03.08-1
+youtube-dl 2020.03.24-1
