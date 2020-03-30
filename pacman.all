@@ -5,6 +5,7 @@ alacritty 0.4.1-2
 alsa-lib 1.2.2-1
 alsa-topology-conf 1.2.2-2
 alsa-ucm-conf 1.2.2-1
+alsa-utils 1.2.2-1
 amd-ucode 20200224.efcfa03-1
 amdvlk 2020.Q1.4-1
 aom 1.0.0.errata1+avif-1
