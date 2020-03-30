@@ -1,0 +1,4 @@
+# Window-specific configurations
+
+# Floating windows
+for_window [class="^Bitwarden$"] floating enable
