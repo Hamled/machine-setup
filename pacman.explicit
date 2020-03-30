@@ -30,6 +30,7 @@ hub 2.14.2-1
 iotop 0.6-7
 latencytop 0.5-4
 libaio 0.3.112-2
+libappindicator-gtk3 12.10.0-14
 libguestfs 1.40.2-1
 libnotify 0.7.9-1
 libva-vdpau-driver 0.7.4-4

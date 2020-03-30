@@ -179,6 +179,7 @@ ldb 1:2.0.7-2
 ldns 1.7.1-2
 less 551-3
 libaio 0.3.112-2
+libappindicator-gtk3 12.10.0-14
 libarchive 3.4.2-1
 libass 0.14.0-1
 libassuan 2.5.3-2
@@ -224,6 +225,7 @@ libid3tag 0.15.1b-9
 libidn 1.35-2
 libidn2 2.3.0-1
 libiec61883 1.2.0-5
+libindicator-gtk3 12.10.1-9
 libinput 1.15.4-1
 libiscsi 1.19.0-1
 libjpeg-turbo 2.0.4-1
