@@ -459,6 +459,7 @@ rpcbind 1.2.5-3
 rtkit 0.12-1
 rubberband 1.8.2-3
 run-parts 4.8.6.1-2
+rustup 1.21.1-4
 scream-pulse 3.4-2
 sdl2 2.0.12-1
 sdl2_ttf 2.0.15-1
@@ -480,6 +481,7 @@ spice-gtk 0.37-1
 spice-protocol 0.14.1-1
 spirv-tools 2019.5-2
 spotify 1:1.1.10.546-4
+spotifyd-full 0.2.24-1
 sqlite 3.31.1-1
 startup-notification 0.12-6
 strace 5.5-1
