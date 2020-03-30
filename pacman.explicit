@@ -5,7 +5,7 @@ apcupsd 3.14.14-4
 asciinema 2.0.2-3
 asp 5-1
 autoconf 2.69-7
-automake 1.16.1-2
+automake 1.16.2-1
 base 2-2
 binutils 2.34-2
 bison 3.5.3-1
@@ -54,7 +54,7 @@ polkit-gnome 0.105-4
 pulseaudio 13.0-3
 qemu 4.2.0-2
 ranger 1.9.3-1
-ripgrep 12.0.0-1
+ripgrep 12.0.1-1
 scream-pulse 3.4-2
 smartmontools 7.1-1
 spotify 1:1.1.10.546-4
@@ -69,7 +69,7 @@ ttf-roboto-mono 2.002-3
 usbutils 012-2
 vim 8.2.0343-1
 virt-manager 2.2.1-2
-virtio-win 0.1.173.8-1
+virtio-win 0.1.173.9-1
 which 2.21-5
 wireguard-dkms 0.0.20200318-1
 wireguard-tools 1.0.20200319-1
