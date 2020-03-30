@@ -54,6 +54,7 @@ otf-font-awesome 5.13.0-1
 ovmf 1:202002-1
 patch 2.7.6-8
 pavucontrol 1:4.0-1
+playerctl 2.1.1-1
 polkit-gnome 0.105-4
 pulseaudio 13.0-3
 qemu 4.2.0-2
