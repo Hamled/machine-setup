@@ -24,6 +24,7 @@ flex 2.6.4-3
 gcc 9.3.0-1
 git 2.26.0-1
 go 2:1.14.1-1
+hub 2.14.2-1
 iotop 0.6-7
 latencytop 0.5-4
 libaio 0.3.112-2
@@ -31,8 +32,8 @@ libguestfs 1.40.2-1
 libnotify 0.7.9-1
 libva-vdpau-driver 0.7.4-4
 libvirt 5.10.0-2
-linux-bcachefs-git v5.3.18.arch1.r860257.f831be90f115-1
-linux-bcachefs-git-headers v5.3.18.arch1.r860257.f831be90f115-1
+linux-bcachefs-git v5.3.18.arch1.r860268.f03c05b89ab6-1
+linux-bcachefs-git-headers v5.3.18.arch1.r860268.f03c05b89ab6-1
 linux-firmware 20200224.efcfa03-1
 looking-glass 2:B1-2
 make 4.3-1
