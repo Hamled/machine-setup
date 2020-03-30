@@ -12,6 +12,7 @@ bison 3.5.3-1
 bitwarden-bin 1.17.2-1
 dash 0.5.10.2-2
 dhcpcd 8.1.6-1
+diff-so-fancy 1.2.7-1
 dmenu 4.9-1
 dmidecode 3.2-1
 dnsmasq 2.80-4
