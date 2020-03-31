@@ -57,6 +57,7 @@ compiler-rt 9.0.1-1
 conan 1.23.0-1
 coreutils 8.31-3
 cpio 2.13-1
+cppcheck 1.90-2
 cracklib 2.9.7-2
 cryptsetup 2.3.1-1
 curl 7.69.1-1
@@ -649,6 +650,7 @@ tcl 8.6.10-1
 tdb 1.4.3-2
 tevent 1:0.10.2-1
 texinfo 6.7-2
+tinyxml2 7.1.0-1
 ttf-bitstream-vera 1.10-12
 ttf-dejavu 2.37-2
 ttf-droid 20121017-7
