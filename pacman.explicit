@@ -59,6 +59,7 @@ netctl 1.20-2
 openresolv 3.10.0-1
 otf-font-awesome 5.13.0-1
 ovmf 1:202002-1
+pandoc 2.9.2.1-2
 patch 2.7.6-8
 pavucontrol 1:4.0-1
 playerctl 2.1.1-1
