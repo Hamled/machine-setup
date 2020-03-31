@@ -8,6 +8,7 @@ linux-bcachefs-git-headers v5.3.18.arch1.r860268.f03c05b89ab6-1
 looking-glass 2:B1-2
 megatools 1.10.2-1
 modprobed-db 2.41-1
+rtags 2.38-1
 scream-pulse 3.4-2
 spotify 1:1.1.10.546-4
 spotify-tui-bin 0.17.1-1
