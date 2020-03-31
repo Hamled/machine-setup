@@ -11,6 +11,7 @@ base 2-2
 binutils 2.34-2
 bison 3.5.3-1
 bitwarden-bin 1.17.2-1
+ccls 0.20190823.5-2
 clang 9.0.1-1
 dash 0.5.10.2-2
 dhcpcd 8.1.6-1
