@@ -1,7 +1,7 @@
 acl 2.2.53-2
 adobe-source-code-pro-fonts 2.030ro+1.050it-5
 adwaita-icon-theme 3.36.0-1
-alacritty 0.4.1-2
+alacritty 0.4.2-1
 alsa-lib 1.2.2-1
 alsa-topology-conf 1.2.2-2
 alsa-ucm-conf 1.2.2-1
@@ -179,7 +179,7 @@ hivex 1.3.18-4
 hub 2.14.2-1
 hwids 20200306-1
 hwloc 2.1.0-2
-iana-etc 20200311-1
+iana-etc 20200327-1
 icu 65.1-3
 ijs 0.35-2
 imagemagick 7.0.10.3-1
@@ -216,7 +216,7 @@ libass 0.14.0-1
 libassuan 2.5.3-2
 libasyncns 0.8+3+g68cd5af-2
 libavc1394 0.5.4-3
-libbluray 1.2.0-1
+libbluray 1.2.0-3
 libbsd 0.10.0-1
 libcaca 0.99.beta19-2
 libcacard 2.7.0-1
@@ -387,7 +387,7 @@ man-db 2.9.1-1
 man-pages 5.05-2
 megatools 1.10.2-1
 mesa 20.0.2-1
-meson 0.53.2-1
+meson 0.54.0-1
 mkinitcpio 27-3
 mkinitcpio-busybox 1.31.1-1
 modprobed-db 2.41-1
@@ -528,7 +528,7 @@ sed 4.8-1
 shaderc 2019.0-4
 shadow 4.8.1-1
 shared-mime-info 1.15-2
-shellcheck 0.7.0-205
+shellcheck 0.7.0-207
 smartmontools 7.1-1
 smbclient 4.11.3-3
 snappy 1.1.8-1
@@ -594,7 +594,7 @@ wayland-protocols 1.20-1
 webrtc-audio-processing 0.3.1-1
 wget 1.20.3-2
 which 2.21-5
-wireguard-dkms 0.0.20200318-1
+wireguard-dkms 1.0.20200330-1
 wireguard-tools 1.0.20200319-1
 wl-clipboard 1:2.0.0-1
 wlroots 0.10.1-1
@@ -616,8 +616,8 @@ xorg-font-util 1.3.2-1
 xorg-font-utils 7.6-5
 xorg-fonts-encodings 1.0.5-1
 xorg-mkfontscale 1.2.1-2
-xorg-server-common 1.20.7-1
-xorg-server-xwayland 1.20.7-1
+xorg-server-common 1.20.8-1
+xorg-server-xwayland 1.20.8-1
 xorg-setxkbmap 1.3.2-1
 xorg-xkbcomp 1.4.3-1
 xorg-xprop 1.2.4-1
