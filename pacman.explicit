@@ -21,6 +21,7 @@ ebtables 2.0.10_4-7
 efibootmgr 16-2
 exfat-utils 1.3.0-1
 fakeroot 1.24-2
+fd 7.5.0-1
 firefox 74.0-2
 flex 2.6.4-3
 gcc 9.3.0-1
