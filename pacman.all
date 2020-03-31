@@ -349,6 +349,7 @@ lmdb 0.9.24-1
 looking-glass 2:B1-2
 lua52 5.2.4-5
 lz4 1:1.9.2-2
+lz4json 2-1
 lzo 2.10-3
 m17n-db 1.8.0-2
 m17n-lib 1.8.0-6

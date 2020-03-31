@@ -6,6 +6,7 @@ libscrypt-git 1.21.r13.ga402f41-1
 linux-bcachefs-git v5.3.18.arch1.r860268.f03c05b89ab6-1
 linux-bcachefs-git-headers v5.3.18.arch1.r860268.f03c05b89ab6-1
 looking-glass 2:B1-2
+lz4json 2-1
 megatools 1.10.2-1
 modprobed-db 2.41-1
 rtags 2.38-1
