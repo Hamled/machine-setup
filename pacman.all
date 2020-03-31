@@ -541,6 +541,7 @@ wget 1.20.3-2
 which 2.21-5
 wireguard-dkms 0.0.20200318-1
 wireguard-tools 1.0.20200319-1
+wl-clipboard 1:2.0.0-1
 wlroots 0.10.1-1
 wofi 1.1.2-1
 x264 3:0.159.r2991.1771b55-1
