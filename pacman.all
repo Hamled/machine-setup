@@ -119,6 +119,7 @@ ghc-libs 8.8.3-1
 ghostscript 9.52-1
 giflib 5.2.1-1
 git 2.26.0-1
+git-lfs 2.10.0-2
 glib-networking 2.64.1-1
 glib2 2.64.1-1
 glibc 2.31-2
