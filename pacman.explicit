@@ -22,6 +22,7 @@ diff-so-fancy 1.2.7-1
 dmenu 4.9-1
 dmidecode 3.2-1
 dnsmasq 2.80-4
+docker 1:19.03.8-1
 ebtables 2.0.10_4-7
 efibootmgr 16-2
 emacs 26.3-1
