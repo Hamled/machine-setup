@@ -8,9 +8,15 @@ libscrypt-git 1.21.r13.ga402f41-1
 linux-bcachefs-git v5.3.18.arch1.r860268.f03c05b89ab6-1
 linux-bcachefs-git-headers v5.3.18.arch1.r860268.f03c05b89ab6-1
 looking-glass 2:B1-2
+lrexlib-pcre5.1 2.9.0-2
+lua-yajl 2.0-2
+lua51-sql-sqlite 2.3.0-4
+lua51-utf8 0.1.1-2
+luazip5.1 1.2.4-3
 lz4json 2-1
 megatools 1.10.2-1
 modprobed-db 2.41-1
+mudlet 4.6.2-1
 python-node-semver 0.8.0-1
 python-patch-ng 1.17.3-1
 python-pluginbase 1.0.0-3
