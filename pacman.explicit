@@ -14,6 +14,7 @@ bison 3.5.3-1
 bitwarden-bin 1.17.2-1
 ccache 3.7.9-1
 ccls 0.20190823.5-2
+cef-minimal 80.0.8-1
 clang 9.0.1-1
 conan 1.23.0-1
 cppcheck 1.90-2
@@ -44,6 +45,7 @@ iotop 0.6-7
 latencytop 0.5-4
 libaio 0.3.112-2
 libappindicator-gtk3 12.10.0-14
+libfdk-aac 2.0.1-1
 libguestfs 1.40.2-1
 libnotify 0.7.9-1
 libva-vdpau-driver 0.7.4-4
@@ -53,6 +55,7 @@ linux-bcachefs-git-headers v5.3.18.arch1.r860268.f03c05b89ab6-1
 linux-firmware 20200224.efcfa03-1
 looking-glass 2:B1-2
 lsof 4.93.2-1
+luajit 2.0.5-2
 lz4json 2-1
 make 4.3-1
 mako 1.4.1-1
@@ -88,6 +91,7 @@ strace 5.5-1
 sudo 1.8.31.p1-1
 sway 1:1.4-8
 swaylock 1.5-1
+swig 4.0.1-2
 sysstat 12.3.1-1
 ttf-bitstream-vera 1.10-12
 ttf-droid 20121017-7
@@ -100,6 +104,7 @@ usbutils 012-2
 vim 8.2.0343-1
 virt-manager 2.2.1-2
 virtio-win 0.1.173.9-1
+vlc 3.0.8-11
 waybar 0.9.1-1
 which 2.21-5
 wireguard-dkms 1.0.20200401-1
