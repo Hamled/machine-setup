@@ -513,6 +513,7 @@ make 4.3-1
 mako 1.4.1-1
 man-db 2.9.1-2
 man-pages 5.05-2
+mbedtls 2.16.5-1
 md4c 0.4.3-1
 megatools 1.10.2-1
 mesa 20.0.3-1
