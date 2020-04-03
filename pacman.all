@@ -651,10 +651,12 @@ python2-setuptools 2:44.1.0-1
 python2-six 1.14.0-1
 qemu 4.2.0-2
 qt5-base 5.14.2-1
+qt5-declarative 5.14.2-1
 qt5-gamepad 5.14.2-1
 qt5-multimedia 5.14.2-1
 qt5-svg 5.14.2-1
 qt5-tools 5.14.2-1
+qt5-wayland 5.14.2-1
 qt5-x11extras 5.14.2-1
 ranger 1.9.3-1
 rapidjson 1.1.0-4
