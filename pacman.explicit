@@ -22,7 +22,7 @@ diff-so-fancy 1.2.7-1
 dmenu 4.9-1
 dmidecode 3.2-1
 dnsmasq 2.80-4
-docker 1:19.03.8-1
+docker 1:19.03.8-2
 ebtables 2.0.10_4-7
 efibootmgr 16-2
 emacs 26.3-1
@@ -54,7 +54,7 @@ looking-glass 2:B1-2
 lz4json 2-1
 make 4.3-1
 mako 1.4.1-1
-man-db 2.9.1-1
+man-db 2.9.1-2
 man-pages 5.05-2
 megatools 1.10.2-1
 modprobed-db 2.41-1
@@ -66,7 +66,7 @@ netctl 1.20-2
 openresolv 3.10.0-1
 otf-font-awesome 5.13.0-1
 ovmf 1:202002-1
-pandoc 2.9.2.1-2
+pandoc 2.9.2.1-5
 patch 2.7.6-8
 pavucontrol 1:4.0-1
 playerctl 2.1.1-1
@@ -77,7 +77,7 @@ ranger 1.9.3-1
 ripgrep 12.0.1-1
 rtags 2.38-1
 scream-pulse 3.4-2
-shellcheck 0.7.0-207
+shellcheck 0.7.0-210
 smartmontools 7.1-1
 spotify 1:1.1.10.546-4
 spotify-tui-bin 0.17.1-1
@@ -99,10 +99,10 @@ virt-manager 2.2.1-2
 virtio-win 0.1.173.9-1
 waybar 0.9.1-1
 which 2.21-5
-wireguard-dkms 1.0.20200330-1
+wireguard-dkms 1.0.20200401-1
 wireguard-tools 1.0.20200319-1
 wl-clipboard 1:2.0.0-1
-wofi 1.1.2-1
+wofi 1.1.2-2
 xorg-server-xwayland 1.20.8-1
 yay 9.4.6-2
 youtube-dl 2020.03.24-1
