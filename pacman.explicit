@@ -8,6 +8,7 @@ asp 5-1
 autoconf 2.69-7
 automake 1.16.2-1
 base 2-2
+bcompare 4.3.4.24657-1
 binutils 2.34-2
 bison 3.5.3-1
 bitwarden-bin 1.17.2-1
