@@ -476,6 +476,7 @@ lm_sensors 3.6.0-1
 lmdb 0.9.24-1
 looking-glass 2:B1-2
 lrexlib-pcre5.1 2.9.0-2
+lsof 4.93.2-1
 lua 5.3.5-3
 lua-yajl 2.0-2
 lua51 5.1.5-9
