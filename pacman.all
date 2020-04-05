@@ -61,6 +61,7 @@ clang 9.0.1-1
 cmake 3.17.0-1
 cmark-gfm 0.29.0.gfm.0-1
 colord 1.4.4+9+g1ce26da-1
+compiledb 0.10.1-1
 compiler-rt 9.0.1-1
 conan 1.23.0-1
 containerd 1.3.3-1
@@ -543,6 +544,7 @@ nspr 4.25-1
 nss 3.51-1
 numactl 2.0.13-2
 oath-toolkit 2.6.2-7
+obs-studio-wayland-git 23.2.1.r808.g6de8acd9-1
 ocaml 4.09.1-1
 ocaml-compiler-libs 4.09.1-1
 ocaml-findlib 1.8.1-5
@@ -601,9 +603,11 @@ pygobject-devel 3.36.0-1
 python 3.8.2-1
 python-appdirs 1.4.3-5
 python-babel 2.8.0-4
+python-bashlex 0.14-2
 python-bottle 0.12.18-1
 python-cairo 1.19.1-1
 python-chardet 3.0.4-4
+python-click 7.1.1-1
 python-colorama 0.4.3-1
 python-dateutil 2.8.1-3
 python-deprecation 2.0.7-2
@@ -628,6 +632,7 @@ python-pyparsing 2.4.6-1
 python-pytz 2019.3-3
 python-requests 2.23.0-1
 python-setuptools 1:46.1.3-1
+python-shutilwhich 1.1.0-5
 python-six 1.14.0-1
 python-snowballstemmer 2.0.0-3
 python-sphinx 2.4.4-1

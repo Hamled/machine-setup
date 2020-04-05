@@ -2,6 +2,7 @@ bcachefs-tools-git 569-1
 bcompare 4.3.4.24657-1
 bitwarden-bin 1.17.2-1
 cef-minimal 80.0.8-1
+compiledb 0.10.1-1
 conan 1.23.0-1
 g810-led-git 0.3.9-1
 latencytop 0.5-4
@@ -19,6 +20,8 @@ lz4json 2-1
 megatools 1.10.2-1
 modprobed-db 2.41-1
 mudlet 4.6.2-1
+obs-studio-wayland-git 23.2.1.r808.g6de8acd9-1
+python-bashlex 0.14-2
 python-node-semver 0.8.0-1
 python-patch-ng 1.17.3-1
 python-pluginbase 1.0.0-3

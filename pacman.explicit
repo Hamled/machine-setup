@@ -16,6 +16,7 @@ ccache 3.7.9-1
 ccls 0.20190823.5-2
 cef-minimal 80.0.8-1
 clang 9.0.1-1
+compiledb 0.10.1-1
 conan 1.23.0-1
 cppcheck 1.90-2
 dash 0.5.10.2-2
@@ -70,6 +71,7 @@ mpv 1:0.32.0-2
 mtr 0.93-2
 mudlet 4.6.2-1
 netctl 1.20-2
+obs-studio-wayland-git 23.2.1.r808.g6de8acd9-1
 openresolv 3.10.0-1
 otf-font-awesome 5.13.0-1
 ovmf 1:202002-1
