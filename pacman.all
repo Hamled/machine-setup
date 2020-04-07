@@ -492,6 +492,7 @@ linux-api-headers 5.4.17-1
 linux-bcachefs-git v5.3.18.arch1.r860268.f03c05b89ab6-1
 linux-bcachefs-git-headers v5.3.18.arch1.r860268.f03c05b89ab6-1
 linux-firmware 20200316.8eb0b28-1
+lld 9.0.1-1
 llvm 9.0.1-2
 llvm-libs 9.0.1-2
 lm_sensors 3.6.0-1

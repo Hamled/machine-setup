@@ -56,6 +56,7 @@ libvirt 5.10.0-3
 linux-bcachefs-git v5.3.18.arch1.r860268.f03c05b89ab6-1
 linux-bcachefs-git-headers v5.3.18.arch1.r860268.f03c05b89ab6-1
 linux-firmware 20200316.8eb0b28-1
+lld 9.0.1-1
 looking-glass 2:B1-2
 lsof 4.93.2-1
 luajit 2.0.5-2
