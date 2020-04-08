@@ -604,6 +604,7 @@ procps-ng 3.3.16-1
 psmisc 23.3-2
 pugixml 1.10-1
 pulseaudio 13.0-3
+pv 1.6.6-2
 pygobject-devel 3.36.0-1
 python 3.8.2-1
 python-appdirs 1.4.3-5
