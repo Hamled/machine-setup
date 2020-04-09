@@ -680,6 +680,10 @@ rpcbind 1.2.5-3
 rtags 2.38-1
 rtkit 0.13-1
 rubberband 1.8.2-3
+ruby 2.7.1-1
+ruby-irb 1.2.1-1
+ruby-reline 0.0.7-2
+rubygems 3.1.2-4
 run-parts 4.8.6.1-2
 runc 1.0.0rc10-2
 rustup 1.21.1-4
