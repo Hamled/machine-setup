@@ -53,8 +53,9 @@ libguestfs 1.40.2-1
 libnotify 0.7.9-1
 libva-vdpau-driver 0.7.4-4
 libvirt 5.10.0-3
-linux-bcachefs-git v5.3.18.arch1.r860268.f03c05b89ab6-1
-linux-bcachefs-git-headers v5.3.18.arch1.r860268.f03c05b89ab6-1
+linux-bcachefs-git v5.3.18.arch1.r860292.f196abd960b1-1
+linux-bcachefs-git-docs v5.3.18.arch1.r860292.f196abd960b1-1
+linux-bcachefs-git-headers v5.3.18.arch1.r860292.f196abd960b1-1
 linux-firmware 20200316.8eb0b28-1
 lld 9.0.1-1
 looking-glass 2:B1-2
@@ -109,6 +110,7 @@ ttf-hack 3.003-1
 ttf-roboto-fontconfig 2.000980-1
 ttf-roboto-mono 2.002-3
 ttf-twemoji-color 12.0.1-1
+unrar 1:5.9.2-1
 upwork 5.3.3.871-3
 usbutils 012-2
 vim 8.2.0510-1

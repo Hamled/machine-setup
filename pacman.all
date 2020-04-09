@@ -489,8 +489,9 @@ libyaml 0.2.2-1
 libzip 1.6.1-1
 licenses 20191011-2
 linux-api-headers 5.4.17-1
-linux-bcachefs-git v5.3.18.arch1.r860268.f03c05b89ab6-1
-linux-bcachefs-git-headers v5.3.18.arch1.r860268.f03c05b89ab6-1
+linux-bcachefs-git v5.3.18.arch1.r860292.f196abd960b1-1
+linux-bcachefs-git-docs v5.3.18.arch1.r860292.f196abd960b1-1
+linux-bcachefs-git-headers v5.3.18.arch1.r860292.f196abd960b1-1
 linux-firmware 20200316.8eb0b28-1
 lld 9.0.1-1
 llvm 9.0.1-2
@@ -743,6 +744,7 @@ ttf-roboto-mono 2.002-3
 ttf-twemoji-color 12.0.1-1
 tzdata 2019c-3
 uchardet 0.0.6-2
+unrar 1:5.9.2-1
 unzip 6.0-13
 upwork 5.3.3.871-3
 usbredir 0.8.0-1
