@@ -20,7 +20,7 @@ lua51-sql-sqlite 2.3.0-4
 lua51-utf8 0.1.1-2
 luazip5.1 1.2.4-3
 lz4json 2-1
-megatools 1.10.2-1
+megatools 1.11.0.git.20200404-1
 modprobed-db 2.41-1
 mudlet 4.6.2-1
 obs-studio-wayland-git 23.2.1.r808.g6de8acd9-1

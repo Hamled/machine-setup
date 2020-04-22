@@ -69,7 +69,7 @@ man-db 2.9.1-2
 man-pages 5.06-1
 mariadb-clients 10.4.12-1
 mbedtls 2.16.5-1
-megatools 1.10.2-1
+megatools 1.11.0.git.20200404-1
 mitmproxy 5.1.1-1
 modprobed-db 2.41-1
 moreutils 0.63-1

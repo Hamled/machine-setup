@@ -527,7 +527,7 @@ mariadb-clients 10.4.12-1
 mariadb-libs 10.4.12-1
 mbedtls 2.16.5-1
 md4c 0.4.3-1
-megatools 1.10.2-1
+megatools 1.11.0.git.20200404-1
 mercurial 5.3.2-1
 mesa 20.0.4-2
 meson 0.54.0-2
