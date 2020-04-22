@@ -490,9 +490,9 @@ libyaml 0.2.4-1
 libzip 1.6.1-1
 licenses 20191011-2
 linux-api-headers 5.4.17-1
-linux-bcachefs-git v5.3.18.arch1.r860297.bfa74ca054f2-1
-linux-bcachefs-git-docs v5.3.18.arch1.r860297.bfa74ca054f2-1
-linux-bcachefs-git-headers v5.3.18.arch1.r860297.bfa74ca054f2-1
+linux-bcachefs-git v5.3.18.arch1.r860297.8222f04aa397-1
+linux-bcachefs-git-docs v5.3.18.arch1.r860297.8222f04aa397-1
+linux-bcachefs-git-headers v5.3.18.arch1.r860297.8222f04aa397-1
 linux-firmware 20200316.8eb0b28-1
 lld 10.0.0-2
 llvm 10.0.0-1

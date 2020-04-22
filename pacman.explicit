@@ -54,9 +54,9 @@ libguestfs 1.40.2-1
 libnotify 0.7.9-1
 libva-vdpau-driver 0.7.4-4
 libvirt 5.10.0-3
-linux-bcachefs-git v5.3.18.arch1.r860297.bfa74ca054f2-1
-linux-bcachefs-git-docs v5.3.18.arch1.r860297.bfa74ca054f2-1
-linux-bcachefs-git-headers v5.3.18.arch1.r860297.bfa74ca054f2-1
+linux-bcachefs-git v5.3.18.arch1.r860297.8222f04aa397-1
+linux-bcachefs-git-docs v5.3.18.arch1.r860297.8222f04aa397-1
+linux-bcachefs-git-headers v5.3.18.arch1.r860297.8222f04aa397-1
 linux-firmware 20200316.8eb0b28-1
 lld 10.0.0-2
 looking-glass 2:B1-2
