@@ -100,7 +100,6 @@ scream-pulse 3.4-2
 shellcheck 0.7.0-227
 smartmontools 7.1-1
 spotify 1:1.1.10.546-4
-spotify-tui-bin 0.17.1-1
 spotifyd-full 0.2.24-1
 strace 5.6-1
 sudo 1.8.31.p1-1
