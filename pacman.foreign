@@ -6,8 +6,8 @@ bitwarden-bin 1.17.2-1
 cef-minimal 80.0.8-1
 compiledb 0.10.1-1
 conan 1.24.1-1
-g810-led-git 0.3.9-1
-google-chrome-beta 83.0.4103.23-1
+g810-led-git 0.4.0-1
+google-chrome-beta 83.0.4103.34-1
 latencytop 0.5-4
 libguestfs 1.40.2-1
 libscrypt-git 1.21.r13.ga402f41-1
