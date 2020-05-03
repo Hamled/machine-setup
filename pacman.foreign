@@ -19,12 +19,12 @@ looking-glass 2:B1-2
 lrexlib-pcre5.1 2.9.0-2
 lua-yajl 2.0-2
 lua51-sql-sqlite 2.3.0-4
-lua51-utf8 0.1.1-2
+lua51-utf8 0.1.2-1
 luazip5.1 1.2.4-3
 lz4json 2-1
 megatools 1.11.0.git.20200404-1
 modprobed-db 2.41-1
-mudlet 4.6.2-1
+mudlet 4.8.0-1
 obs-studio-wayland-git 23.2.1.r808.g6de8acd9-1
 python-bashlex 0.14-2
 python-node-semver 0.8.0-1
@@ -38,5 +38,5 @@ ttf-roboto-fontconfig 2.000980-1
 ttf-twemoji-color 12.0.1-1
 upwork 5.3.3.883-1
 virtio-win 0.1.173.9-1
-yay 9.4.6-2
-zoom 5.0.398100.0427-1
+yay 9.4.7-1
+zoom 5.0.399860.0429-1
