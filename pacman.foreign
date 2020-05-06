@@ -6,7 +6,7 @@ bitwarden-bin 1.17.2-1
 cef-minimal 80.0.8-1
 compiledb 0.10.1-1
 conan 1.24.1-1
-g810-led-git 0.4.0-1
+g810-led-git 0.4.1-1
 google-chrome-beta 83.0.4103.34-1
 haskell-base-noprelude 4.13.0.0-1
 latencytop 0.5-4
@@ -19,7 +19,7 @@ looking-glass 2:B1-2
 lrexlib-pcre5.1 2.9.0-2
 lua-yajl 2.0-2
 lua51-sql-sqlite 2.3.0-4
-lua51-utf8 0.1.2-1
+lua51-utf8 0.1.2-2
 luazip5.1 1.2.4-3
 lz4json 2-1
 megatools 1.11.0.git.20200404-1
